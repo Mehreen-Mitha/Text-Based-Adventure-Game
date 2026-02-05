@@ -1,5 +1,4 @@
 # Bone Deep Bad Decisions
-A Python Text-Based Adventure Game — Where Every Choice Leaves a Mark
 
 ## 📌 Introduction
 
