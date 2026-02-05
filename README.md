@@ -1,10 +1,7 @@
-# Bone Deep Bad Decisions 🎮🦴
+# Bone Deep Bad Decisions
+A Python Text-Based Adventure Game — Where Every Choice Leaves a Mark
 
-**A Python Text-Based Adventure Game — Where Every Choice Leaves a Mark**
-
----
-
-## Introduction
+## 📌 Introduction
 
 *Bone Deep Bad Decisions* is an interactive text based adventure game developed in Python. Players navigate a dark, immersive dungeon, encountering enemies, puzzles, and branching storylines. Every decision influences player stats, inventory, and the ultimate outcome, demonstrating principles of game design, logic, and modular programming.
 
@@ -12,7 +9,7 @@ This project showcases practical application of Python fundamentals, problem-sol
 
 ---
 
-## Tech Stack
+## 🛠 Technical Stack
 
 - **Language:** Python
 - **Core Concepts:**  
@@ -24,7 +21,7 @@ This project showcases practical application of Python fundamentals, problem-sol
 
 ---
 
-## Features
+## ✨ Features
 
 - **Dynamic Player Stats & Inventory:** Health, attack, weapons, keys, potions  
 - **Branching Storylines:** Player choices directly affect narrative and gameplay outcomes  
@@ -35,7 +32,7 @@ This project showcases practical application of Python fundamentals, problem-sol
 
 ---
 
-## How the Project Works
+## ⚙️ How the Project Works
 
 1. **Initialization:** Player stats and inventory are set to base values.  
 2. **Main Menu & Game Flow:** Players select actions to navigate rooms, fight enemies, and solve puzzles.  
@@ -45,7 +42,7 @@ This project showcases practical application of Python fundamentals, problem-sol
 
 ---
 
-## Skills Demonstrated
+## 📚 Skills Demonstrated
 
 - Python programming fundamentals and clean code practices  
 - Game state management with global variables and functions  
@@ -56,7 +53,7 @@ This project showcases practical application of Python fundamentals, problem-sol
 
 ---
 
-## Learning Outcomes
+## 🎯 Learning Outcomes
 
 - Applied **modular programming techniques** in a real-world project  
 - Gained experience in **interactive storytelling** and branching narratives  
@@ -66,7 +63,7 @@ This project showcases practical application of Python fundamentals, problem-sol
 
 ---
 
-## Future Improvements
+## 🔧 Future Improvements
 
 - Implement **save/load functionality** for persistent game sessions  
 - Expand dungeon with **new rooms, puzzles, and narrative paths**  
