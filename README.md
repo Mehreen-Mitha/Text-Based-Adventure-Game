@@ -28,10 +28,10 @@ This project showcases practical application of Python fundamentals, problem-sol
 
 - **Dynamic Player Stats & Inventory:** Health, attack, weapons, keys, potions  
 - **Branching Storylines:** Player choices directly affect narrative and gameplay outcomes  
-- **Multiple Rooms & Challenges:**   
-- **Combat System:** Turn-based mechanics with enemies of varying difficulty  
+- **Multiple Rooms & Challenges**   
+- **Combat System:** Turn-based mechanics with enemies of varying difficulty and randomized actions 
 - **Multiple Endings:** Outcomes depend on strategic decisions and collected items  
-- **User Input Validation:** Ensures meaningful gameplay interaction  
+- **User Input Validation:** Ensures meaningful gameplay interactions including those with NPCs that affect the future
 
 ---
 
@@ -39,9 +39,9 @@ This project showcases practical application of Python fundamentals, problem-sol
 
 1. **Initialization:** Player stats and inventory are set to base values.  
 2. **Main Menu & Game Flow:** Players select actions to navigate rooms, fight enemies, and solve puzzles.  
-3. **Combat System:** Turn-based logic calculates damage, defense, and health recovery.  
+3. **Combat System:** Turn based logic calculates damage, defense, and health recovery.  
 4. **Decision Impact:** Choices modify inventory, unlock hidden rooms, and influence the final ending.  
-5. **Endgame:** Multiple endings provide replayability based on prior decisions and items collected.  
+5. **Endgame:** Multiple endings based on prior decisions and items collected.  
 
 ---
 
@@ -49,8 +49,8 @@ This project showcases practical application of Python fundamentals, problem-sol
 
 - Python programming fundamentals and clean code practices  
 - Game state management with global variables and functions  
-- Designing **choice-driven logic systems**  
-- Implementing a **turn-based combat engine**  
+- Designing **choice driven logic systems**  
+- Implementing a **turn based combat engine**  
 - Inventory tracking and conditional progression  
 - Handling user input and exception scenarios in interactive applications  
 
@@ -61,7 +61,7 @@ This project showcases practical application of Python fundamentals, problem-sol
 - Applied **modular programming techniques** in a real-world project  
 - Gained experience in **interactive storytelling** and branching narratives  
 - Built **game mechanics logic** for combat, inventory, and event outcomes  
-- Developed problem-solving skills through debugging and user input validation  
+- Developed problem solving skills through debugging and user input validation  
 - Learned to design systems that respond dynamically to player choices  
 
 ---
